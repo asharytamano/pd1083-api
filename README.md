@@ -32,6 +32,19 @@ fetch("https://<username>.github.io/pd1083-api/pd1083_flat_complete.json")
     console.log(article.text);
   });
 
+⚡ Helper Function
+
+You can use this function to easily fetch any article by number:
+
+async function getArticle(articleNumber) {
+  const res = await fetch("https://<username>.github.io/pd1083-api/pd1083_flat_complete.json");
+  const data = await res.json();
+  return data.articles.find(a => a.article_number === articleNumber);
+}
+
+// Example:
+getArticle(10).then(article => console.log(article.text));
+
 🤖 Using with GPT Actions
 
 You can connect this API to a custom GPT in ChatGPT Builder.
