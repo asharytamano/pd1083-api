@@ -1,0 +1,404 @@
+{
+  "articles": [
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE I: General Provisions",
+      "chapter": "",
+      "section": "",
+      "article_number": 100,
+      "text": "Modes of Succession. – Succession may be: (a) By will (wasiya); (b) By operation of this Code; or (c) By combination of both."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE II: Testamentary Succession",
+      "chapter": "CHAPTER I: Wills",
+      "section": "",
+      "article_number": 101,
+      "text": "Will defined. – A will (wasiya) is a declaration whereby a person is permitted, with the formalities prescribed by law, to control the disposition after his death of not more than one-third of his estate, if there are heirs, or the whole of it, if there are no heirs or distant kindred."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE II: Testamentary Succession",
+      "chapter": "CHAPTER I: Wills",
+      "section": "",
+      "article_number": 102,
+      "text": "Formalities. – (1) The making of a will is strictly a personal act; it cannot be left in whole or in part to the discretion of a third person or accomplished through the instrumentality of an agent. (2) A will may be declared orally or in writing in a manner that shows clearly the intention of the testator to execute it in the presence of a least two competent, credible and disinterested witnesses."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE II: Testamentary Succession",
+      "chapter": "CHAPTER I: Wills",
+      "section": "",
+      "article_number": 103,
+      "text": "Proof of will. – (1) No nuncupative will shall pass any property of the decedent unless it is proved and allowed in accordance with a solemn oath or affirmation of all the witnesses who attested to its declaration. (2) No will of any other kind, holographic or formal, shall pass any property unless it is proved and allowed in accordance with this Code."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE II: Testamentary Succession",
+      "chapter": "CHAPTER I: Wills",
+      "section": "",
+      "article_number": 104,
+      "text": "Testamentary wagf . – An endowment for Islamic purposes to take effect after the death of the donor (wagf-bill-wasiya) partakes of the nature of a testamentary disposition."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE II: Testamentary Succession",
+      "chapter": "CHAPTER I: Wills",
+      "section": "",
+      "article_number": 105,
+      "text": "Capacity to make a will. – Any person of sound and disposing mind and who is not expressly prohibited by Islamic law may make a will. Persons of either sex under the age of puberty cannot make a will."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE II: Testamentary Succession",
+      "chapter": "CHAPTER I: Wills",
+      "section": "",
+      "article_number": 106,
+      "text": "Disposable third. – (1) The testator, in his will, cannot dispose of more than one-third of his estate. Any bequest in excess thereof shall not be given effect unless ratified by the heirs. In any case, the bequest must be accepted by the legatee. (2) A bequest to any sharer or residuary shall not be valid unless ratified by the testator’s heirs existing at the time of his death."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE II: Testamentary Succession",
+      "chapter": "CHAPTER I: Wills",
+      "section": "",
+      "article_number": 107,
+      "text": "Bequest by operation of law. – Should the testator die without having made a bequest in favor of any child of his son who predeceased him, or who simultaneously dies with him, such child shall be entitled to one-third of the share that would have pertained to the father if he were alive. The parent or spouse, who is otherwise disqualified to inherit in view of Article 93 (c), shall be entitled to one-third of what he or she would have received without such disqualification."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE II: Testamentary Succession",
+      "chapter": "CHAPTER I: Wills",
+      "section": "",
+      "article_number": 108,
+      "text": "Revocation of will. – Will may be expressly or impliedly revoked by the testator at any time before his death. Any waiver or restriction of this right shall be void."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE II: Testamentary Succession",
+      "chapter": "CHAPTER I: Wills",
+      "section": "",
+      "article_number": 109,
+      "text": "Partial invalidity of will. – The invalidity of one of several provisions of a will shall not result in the invalidity of the others, unless it is to be presumed that the testator would not have made such other provisions if the first invalid provision had not been made."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER I: Sharers",
+      "section": "",
+      "article_number": 110,
+      "text": "Who are sharers. – The following persons shall be entitled to the inheritance as sharers to the extent set forth in the succeeding articles: (a) The husband, the wife; (b) The father, the mother, the grandfather, the grandmother; (c) The daughter and the son’s daughter in the direct line; (d) The full sister, the consanguine sister, the uterine sister and the uterine brother."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER I: Sharers",
+      "section": "",
+      "article_number": 111,
+      "text": "Share of surviving husband. – The husband surviving together with a legitimate child or a child of the decedent’s son shall be entitled to one-fourth of the hereditary estate; should there be no such descendants, he shall inherit one-half of the estate."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER I: Sharers",
+      "section": "",
+      "article_number": 112,
+      "text": "Share of surviving wife. – The wife surviving together with a legitimate child or a child of the decedent’s son shall be entitled to one-eighth of the hereditary estate; in the absence of such descendants, she shall inherit one-fourth of the estate."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER I: Sharers",
+      "section": "",
+      "article_number": 113,
+      "text": "Share of surviving father. – The father succeeding together with the legitimate son of the decedent or a son of the decedent’s son shall be entitled, as sharer, to one-sixth of the hereditary estate. The father who succeeds together with a legitimate daughter of the decedent or a daughter of the decedent’s son shall inherit, as sharer, one-sixth of the inheritance without prejudice to his share as residuary."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER I: Sharers",
+      "section": "",
+      "article_number": 114,
+      "text": "Share of surviving mother. – The mother succeeding as sharer together with a child or a child of the decedent’s son, or with two or more brothers or sisters of the decedent, shall be entitled to one-sixth of the hereditary estate. Should she survive without any such descendant or with only one brother or sister, she shall inherit one-third of the estate."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER I: Sharers",
+      "section": "",
+      "article_number": 115,
+      "text": "Share of paternal grandfather. – The paternal grandfather succeeding together with the child of the decedent or, in default thereof, with his descendants in the direct male line however, distant, shall be entitled to one-sixth of the hereditary estate. Should he survive with any sharer other than the brothers or sisters of the decedent, he shall be entitled to one-sixth without prejudice to his right as a residuary."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER I: Sharers",
+      "section": "",
+      "article_number": 116,
+      "text": "Share of paternal grandmother. – The paternal grandmother succeeding in default of the mother, father, or intermediate grandfather of the decedent shall be entitled, as sharer, to one-sixth of the hereditary estate."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER I: Sharers",
+      "section": "",
+      "article_number": 117,
+      "text": "Share of surviving daughter. – (1) If the decedent leaves no son but one daughter, the latter shall be entitled to inherit, as sharer, one-half of the hereditary estate. Two or more daughters shall share equally two-thirds thereof. Should one or more daughters survive with one or more sons of the decedent, the latter shall be entitled to double the share of the former. (2) Should a lone daughter of the decedent survive together with his son’s daughter, the two-thirds share shall be divided between them, one-half thereof to pertain to the former and one-sixth of the latter."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER I: Sharers",
+      "section": "",
+      "article_number": 118,
+      "text": "Share of son’s daughter. – The son’s daughter shall, in the absence of any child of the decedent, be entitled to one-half of the hereditary estate. Two or more daughters of the decedent’s son shall share the two-thirds of the estate per capita."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER I: Sharers",
+      "section": "",
+      "article_number": 119,
+      "text": "Share of full sister. – Should the decedent leave neither descendant, father, nor full brother, the full sister shall be entitled as sharer to the extent of one-half of the hereditary estate. Two or more full sisters shall inherit two-thirds of the estate per capita."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER I: Sharers",
+      "section": "",
+      "article_number": 120,
+      "text": "Share of consanguine sister. – Should the decedent leave neither descendant, full brother, nor full sister, the consanguine sister shall be entitled to one-half of the hereditary estate. Two or more consanguine sisters shall inherit two-thirds of the estate per capita."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER I: Sharers",
+      "section": "",
+      "article_number": 121,
+      "text": "Share of uterine brother or sister. – The share of a uterine brother or sister shall be one-sixth of the hereditary estate should there be no surviving descendant, father, paternal grandfather, or full brother and sister of the decedent. Two or more uterine brothers or sisters shall inherit one-third of the estate per capita."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER I: Sharers",
+      "section": "",
+      "article_number": 122,
+      "text": "Participation of full brother. – (1) One or more full brothers and sisters surviving together, or one or more consanguine brothers or sisters surviving together, shall participate in the hereditary estate, a brother to inherit double the share of a sister. (2) The provision of the next succeeding article notwithstanding, the full brother shall, if nothing is left for him after the distribution of shares and he survives with uterine brothers, participate with the latter in the one-third of the hereditary estate per capita."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER I: Sharers",
+      "section": "",
+      "article_number": 123,
+      "text": "Exclusion among heirs. – The exclusion of heirs from the inheritance shall be governed by the following rules: (a) In the same line, the relative nearest in degree excludes the more remote. (b) Full-blood relatives exclude the consanguine and the uterine. (c) Whoever is related to the decedent through any person shall not inherit while the latter is living, except in the case of a mother concurring with her children. (d) Heirs who, in a particular case, do not succeed by reason of disqualification on any ground shall not exclude others."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER II: Residuary Heirs",
+      "section": "",
+      "article_number": 124,
+      "text": "Residuaries. – Any residue left after the distribution of the shares shall be partitioned among the residuaries in accordance with the following articles. An heir may succeed as residuary in his own right (asaba-bin-nafs), in another’s right (asaba-bil-ghair), or together with another (asaba-ma’al-ghair)."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER II: Residuary Heirs",
+      "section": "",
+      "article_number": 125,
+      "text": "Residuaries in their own right. – The following persons are residuaries in their own right: (a) Male descendants of the decedent in the direct line, however, distant in degree; (b) Male ascendants of the decedent in the direct line, however distant in degree; (c) Full-blood or consanguine brothers of the decedent and their male descendants, however distant in degree; and (d) Full-blood or consanguine paternal uncles of the decedent and their male descendants, however distant in degree."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER II: Residuary Heirs",
+      "section": "",
+      "article_number": 126,
+      "text": "Residuaries in another’s right. – The following persons shall succeed as residuaries in another’s right: (a) Daughters surviving with the son of the decedent; (b) Son’s daughters surviving with their own brothers; (c) Full sisters surviving with their full brothers; and (d) Consanguine sisters surviving with their consanguine brothers."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER II: Residuary Heirs",
+      "section": "",
+      "article_number": 127,
+      "text": "Residuaries together with another. – Full-blood or consanguine sisters, surviving with daughters of the decedent or with the son’s daughters, however distant in degree from the decedent, are residuaries together with another."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER II: Residuary Heirs",
+      "section": "",
+      "article_number": 128,
+      "text": "Preference among residuaries. – Preference among residuaries shall be governed by the following rules: (a) The residuary nearer in degree shall be preferred to the more remote of the same class. (b) The residuary with full-blood relationship shall be preferred to those of the half-blood of the same degree of relationship in the same class. (c) The residuaries of the same class, degree and blood relationship shall share equally, subject to the rule of the male having a share double that of the female in proper cases."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER II: Residuary Heirs",
+      "section": "",
+      "article_number": 129,
+      "text": "Reduction of shares. – If the totality of all the shares assigned to each of the sharers exceeds the whole inheritance, the shares shall be reduced proportionately."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER II: Residuary Heirs",
+      "section": "",
+      "article_number": 130,
+      "text": "Reversion of residue. – If, after distributing the portions of the sharers, a residue is left in the inheritance and there is no surviving residuary heir, the same shall revert in its entirety to the lone sharer or to all the sharers in proportion to their respective shares. However, the husband or the wife shall not be entitled to any part of the reverted portion as long as there are other sharers or distant kindred."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER III: Distant Kindred (Dhaw-ul-arham)",
+      "section": "",
+      "article_number": 131,
+      "text": "Relatives included. – Distant kindred includes the following: (a) The daughter’s children and the children of the son’s daughter and their descendants; (b) The excluded grandfather and the excluded grandmother; (c) The sister’s children, the brother’s daughters, the sons of the uterine brother, and their descendants; and (d) The paternal aunts, the uterine uncles and the maternal aunts and uncles."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE III: Legal Succession",
+      "chapter": "CHAPTER III: Distant Kindred (Dhaw-ul-arham)",
+      "section": "",
+      "article_number": 132,
+      "text": "Extent and distribution of shares. – In default of all sharers and residuaries, the distant kindred shall inherit the entire hereditary estate, the same to be distributed among them in accordance with Articles 123 and 128."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE IV: Settlement and Partition of Estate",
+      "chapter": "",
+      "section": "",
+      "article_number": 133,
+      "text": "Administration. – The administration of the estate of a decedent shall, for purposes of settlement, vest at the time of his death in the executor appointed in the will or, in the absence thereof, in his heir or administrator to whom the court has granted letters of administration."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE IV: Settlement and Partition of Estate",
+      "chapter": "",
+      "section": "",
+      "article_number": 134,
+      "text": "Governing school of law. – (1) In every petition for probate of will or for the settlement of the estate of a decedent, all matters relating to the appointment of administrator, powers and duties of administrator or executor, the court shall take into consideration the school of law (madhhab) of the decedent. (2) If the decedent’s madhhab is not known, the Shafi’i school of law may be given preference together with the special rules of procedure adopted pursuant to this Code."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE IV: Settlement and Partition of Estate",
+      "chapter": "",
+      "section": "",
+      "article_number": 135,
+      "text": "Order of preference of claims. – The estate of a decedent shall be applied to claims and charges in the following order: (a) unpaid taxes; (b) reasonable funeral expenses; (c) the expenses for probate, administration and other judicial expenses; (d) the debts of the decedent; (e) the legacies to the extent of the disposable one-third; (f) the distribution of shares among heirs; and (g) unpaid dower."
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "title": "TITLE IV: Settlement and Partition of Estate",
+      "chapter": "",
+      "section": "",
+      "article_number": 136,
+      "text": "Liability of heirs. – The liability of the heirs of a decedent for the payment of the latter’s debts shall not exceed the hereditary estate. Each heir shall be liable only for the payment of the decedent’s debt in proportion to his share."
+    },
+    {
+      "book": "BOOK FOUR: Adjudication and Settlement of Disputes and Rendition of Legal Opinions",
+      "title": "TITLE I: The Shari’a Courts",
+      "chapter": "",
+      "section": "",
+      "article_number": 137,
+      "text": "Creation. – There are hereby created as part of the judicial system, courts of limited jurisdiction, to be known respectively as Shari’a District Courts and Shari’a Circuit Courts, which shall exercise powers and functions in accordance with this Title. Shari’a courts and the personnel thereof shall be subject to the administrative supervision of the Supreme Court."
+    },
+    {
+      "book": "BOOK FOUR: Adjudication and Settlement of Disputes and Rendition of Legal Opinions",
+      "title": "TITLE I: The Shari’a Courts",
+      "chapter": "CHAPTER I: Shari’a District Courts",
+      "section": "",
+      "article_number": 138,
+      "text": "Shari’a judicial districts. – Five special judicial districts, each to have one Shari’a District Court presided over by one judge, are constituted as follows: (a) The First Shari’a District shall comprise the Province of Sulu; (b) The Second Shari’a District, the Province of Tawi-Tawi; (c) The Third Shari’a District, the Province of Basilan, Zamboanga del Norte and Zamboanga del Sur, and the Cities of Dipolog, Pagadian and Zamboanga; (d) The Fourth Shari’a District, the provinces of Lanao del Norte and Lanao del Sur, and the Cities of Iligan and Marawi; and (e) The Fifth Shari’a District, the Provinces of Maguindanao, North Cotabato and Sultan Kudarat, and the City of Cotabato."
+    },
+    {
+      "book": "BOOK FOUR: Adjudication and Settlement of Disputes and Rendition of Legal Opinions",
+      "title": "TITLE I: The Shari’a Courts",
+      "chapter": "CHAPTER I: Shari’a District Courts",
+      "section": "",
+      "article_number": 139,
+      "text": "Appointment of judges. – The judicial function in the Shari’a District Courts shall be vested in Shari’a District judges to be appointed by the President of the Philippines."
+    },
+    {
+      "book": "BOOK FOUR: Adjudication and Settlement of Disputes and Rendition of Legal Opinions",
+      "title": "TITLE I: The Shari’a Courts",
+      "chapter": "CHAPTER I: Shari’a District Courts",
+      "section": "",
+      "article_number": 140,
+      "text": "Qualifications. – No person shall be appointed Shari’a District judge unless, in addition to the qualifications for judges of Courts of First Instance fixed in the Judiciary Law, he is learned in Islamic law and jurisprudence."
+    },
+    {
+      "book": "BOOK FOUR: Adjudication and Settlement of Disputes and Rendition of Legal Opinions",
+      "title": "TITLE I: The Shari’a Courts",
+      "chapter": "CHAPTER I: Shari’a District Courts",
+      "section": "",
+      "article_number": 141,
+      "text": "Tenure. – Shari’a District judges shall be appointed to serve during good behavior until they reach the age of sixty-five years, or become incapacitated to discharge the duties of their office, unless sooner removed for the same causes and in the same manner provided by law for judges of Courts of First Instance."
+    },
+    {
+      "book": "BOOK FOUR: Adjudication and Settlement of Disputes and Rendition of Legal Opinions",
+      "title": "TITLE I: The Shari’a Courts",
+      "chapter": "CHAPTER I: Shari’a District Courts",
+      "section": "",
+      "article_number": 142,
+      "text": "Compensation. – Shari’a District judges shall receive the same compensation and enjoy the same privileges as the judges of Courts of First Instance."
+    },
+    {
+      "book": "BOOK FOUR: Adjudication and Settlement of Disputes and Rendition of Legal Opinions",
+      "title": "TITLE I: The Shari’a Courts",
+      "chapter": "CHAPTER I: Shari’a District Courts",
+      "section": "",
+      "article_number": 143,
+      "text": "Original jurisdiction. – (1) The Shari’a District Court shall have exclusive original jurisdiction over: (a) All cases involving custody, guardianship, legitimacy, paternity and filiation arising under this Code; (b) All cases involving disposition, distribution and settlement of the estate of deceased Muslims, probate of wills, issuance of letters of administration or appointment of administrators or executors regardless of the nature or the aggregate value of the property; (c) Petitions for the declaration of absence and death and for the cancellation or correction of entries in the Muslim Registries mentioned in Title VI of Book Two of this Code; (d) All actions arising from customary contracts in which the parties are Muslims, if they have not specified which law shall govern their relations; and (e) All petitions for mandamus, prohibition, injunction, certiorari, habeas corpus, and all other auxiliary writs and processes in aid of its appellate jurisdiction. (2) Concurrently with existing civil courts, the Shari’a District Court shall have original jurisdiction over: (a) Petitions by Muslims for the constitution of a family home, change of name and commitment of an insane person to an asylum; (b) All other personal and real actions not mentioned in paragraph 1 (d) wherein the parties involved are Muslims except those for forcible entry and unlawful detainer, which shall fall under the exclusive original jurisdiction of the Municipal Circuit Court; and (c) All special civil actions for interpleader or declaratory relief wherein the parties are Muslims or the property involved belongs exclusively to Muslims."
+    },
+    {
+      "book": "BOOK FOUR: Adjudication and Settlement of Disputes and Rendition of Legal Opinions",
+      "title": "TITLE I: The Shari’a Courts",
+      "chapter": "CHAPTER I: Shari’a District Courts",
+      "section": "",
+      "article_number": 144,
+      "text": "Appellate jurisdiction. – (1) Shari’a District Courts shall have appellate jurisdiction over all cases tried in the Shari’a Circuit Courts within their territorial jurisdiction. (2) The Shari’a District Court shall decide every case appealed to it on the basis of the evidence and records transmitted as well as such memoranda, briefs or oral arguments as the parties may submit."
+    },
+    {
+      "book": "BOOK FOUR: Adjudication and Settlement of Disputes and Rendition of Legal Opinions",
+      "title": "TITLE I: The Shari’a Courts",
+      "chapter": "CHAPTER I: Shari’a District Courts",
+      "section": "",
+      "article_number": 145,
+      "text": "Finality of decision. – The decisions of the Shari’a District Courts whether on appeal from the Shari’a Circuit Court or not shall be final. Nothing herein contained shall affect the original and appellate jurisdiction of the Supreme Court as provided in the Constitution."
+    },
+    {
+      "book": "BOOK FOUR: Adjudication and Settlement of Disputes and Rendition of Legal Opinions",
+      "title": "TITLE I: The Shari’a Courts",
+      "chapter": "CHAPTER I: Shari’a District Courts",
+      "section": "",
+      "article_number": 146,
+      "text": "Clerks and other subordinate employees. – Shari’a District Courts shall have the same officers and other personnel as those provided by law for Courts of First Instance. The pertinent provisions of the Judiciary Law regarding the number, qualifications, appointment, compensation, functions, duties and other matters relative to the personnel of the Courts of First Instance shall apply to those of the Shari’a District Courts."
+    },
+    {
+      "book": "BOOK FOUR: Adjudication and Settlement of Disputes and Rendition of Legal Opinions",
+      "title": "TITLE I: The Shari’a Courts",
+      "chapter": "CHAPTER I: Shari’a District Courts",
+      "section": "",
+      "article_number": 147,
+      "text": "Permanent stations; offices. – (1) The Shari’a District Courts shall have their respective permanent stations in the following places: (a) First Shari’a District, Jolo, Sulu; (b) Second Shari’a District, Bongao, Tawi-Tawi; (c) Third Shari’a District, Zamboanga City; (d) Fourth Shari’a District, Marawi City; (e) Fifth Shari’a District, Cotabato City; (2) The Shari’a District Courts may hold sessions anywhere within their respective districts. (3) The provinces, cities or municipalities concerned shall provide such courts with adequate court office, supplies and equipment in accordance with the provisions of the Judiciary Law."
+    },
+    {
+      "book": "BOOK FOUR: Adjudication and Settlement of Disputes and Rendition of Legal Opinions",
+      "title": "TITLE I: The Shari’a Courts",
+      "chapter": "CHAPTER I: Shari’a District Courts",
+      "section": "",
+      "article_number": 148,
+      "text": "Special procedure. – The Shari’a District Courts shall be governed by such special rules of procedure as the Supreme Court may promulgate."
+    },
+    {
+      "book": "BOOK FOUR: Adjudication and Settlement of Disputes and Rendition of Legal Opinions",
+      "title": "TITLE I: The Shari’a Courts",
+      "chapter": "CHAPTER I: Shari’a District Courts",
+      "section": "",
+      "article_number": 149,
+      "text": "Applicability of other laws. – The provisions of all laws relative to the Courts of First Instance shall, insofar as they are not inconsistent with this Code, be applicable to Shari’a District Courts."
+    }
+  ]
+}
