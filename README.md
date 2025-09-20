@@ -65,8 +65,35 @@ Define an Action schema like this:
   }
 }
 
+📝 Sample Action Query & Response
 
-Your GPT can then fetch pd1083_flat_complete.json, search for the requested article_number, and return the text with explanations, reviewers, or case notes.
+User Prompt:
+
+“Get Article 34 of PD 1083.”
+
+Action Call:
+
+{
+  "action": "get_pd1083_article",
+  "parameters": {
+    "article_number": 34
+  }
+}
+
+
+Action Response:
+
+{
+  "article_number": 34,
+  "book": "Book II: Persons and Family Relations",
+  "title": "Title II: Marriage and Divorce",
+  "chapter": "Chapter 2: Marriage (Nikah)",
+  "section": "Section 1: Requisites of Marriage",
+  "text": "Article 34. [Full text of the article here]"
+}
+
+
+The GPT can then explain, summarize, or provide Shariah context for the returned article.
 
 ⚖️ Disclaimer
 
