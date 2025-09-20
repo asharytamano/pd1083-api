@@ -32,6 +32,29 @@ fetch("https://<username>.github.io/pd1083-api/pd1083_flat_complete.json")
     console.log(article.text);
   });
 
+🤖 Using with GPT Actions
+
+You can connect this API to a custom GPT in ChatGPT Builder.
+Define an Action schema like this:
+
+{
+  "name": "get_pd1083_article",
+  "description": "Retrieve text of a specific Article from PD 1083",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "article_number": {
+        "type": "integer",
+        "description": "The Article number from PD 1083 to retrieve"
+      }
+    },
+    "required": ["article_number"]
+  }
+}
+
+
+Your GPT can then fetch pd1083_flat_complete.json, search for the requested article_number, and return the text with explanations, reviewers, or case notes.
+
 ⚖️ Disclaimer
 
 This project is for educational and research purposes only.
