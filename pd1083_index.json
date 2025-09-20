@@ -1,0 +1,214 @@
+{
+  "index": [
+    {
+      "book": "BOOK ONE: General Provisions",
+      "titles": [
+        {
+          "title": "TITLE I: Title and Purposes of Code",
+          "chapters": []
+        },
+        {
+          "title": "TITLE II: Construction of Code and Definition of Terms",
+          "chapters": []
+        }
+      ]
+    },
+    {
+      "book": "BOOK TWO: Persons and Family Relations",
+      "titles": [
+        {
+          "title": "TITLE I: Civil Personality (Shakhsiyah Madaniya)",
+          "chapters": []
+        },
+        {
+          "title": "TITLE II: Marriage and Divorce",
+          "chapters": [
+            {
+              "chapter": "CHAPTER I: Applicability Clause",
+              "sections": []
+            },
+            {
+              "chapter": "CHAPTER II: Marriage (Nikah)",
+              "sections": [
+                {
+                  "section": "SECTION 1. Requisites of Marriage. –",
+                  "article_range": "14 - 22"
+                },
+                {
+                  "section": "SECTION 2. Prohibited Marriages. –",
+                  "article_range": "23 - 26"
+                },
+                {
+                  "section": "SECTION 3. Subsequent Marriages. –",
+                  "article_range": "27 - 30"
+                },
+                {
+                  "section": "SECTION 4. Batil and Fasi Marriages. –",
+                  "article_range": "31 - 33"
+                },
+                {
+                  "section": "SECTION 5. Rights and Obligations Between Spouses. –",
+                  "article_range": "34 - 36"
+                },
+                {
+                  "section": "SECTION 6. Property Relations Between Spouses. –",
+                  "article_range": "37 - 44"
+                }
+              ]
+            },
+            {
+              "chapter": "CHAPTER III: Divorce (Talaq)",
+              "sections": [
+                {
+                  "section": "SECTION 1. Nature and Form. –",
+                  "article_range": "45 - 55"
+                },
+                {
+                  "section": "SECTION 2. ‘Idda. –",
+                  "article_range": "56 - 57"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TITLE III: Paternity and Filiation",
+          "chapters": []
+        },
+        {
+          "title": "TITLE IV: Support (Nafaqa)",
+          "chapters": []
+        },
+        {
+          "title": "TITLE V: Parental Authority",
+          "chapters": [
+            {
+              "chapter": "CHAPTER I: Nature and Effects",
+              "sections": []
+            },
+            {
+              "chapter": "CHAPTER II: Custody and Guardianship",
+              "sections": []
+            }
+          ]
+        },
+        {
+          "title": "TITLE VI: Civil Registry",
+          "chapters": [
+            {
+              "chapter": "CHAPTER I: Registry of Marriage, Divorce and Conversions",
+              "sections": []
+            },
+            {
+              "chapter": "CHAPTER II: Other Acts Affecting Civil Status",
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "book": "BOOK THREE: Succession",
+      "titles": [
+        {
+          "title": "TITLE I: General Provisions",
+          "chapters": []
+        },
+        {
+          "title": "TITLE II: Testamentary Succession",
+          "chapters": [
+            {
+              "chapter": "CHAPTER I: Wills",
+              "sections": []
+            }
+          ]
+        },
+        {
+          "title": "TITLE III: Legal Succession",
+          "chapters": [
+            {
+              "chapter": "CHAPTER I: Sharers",
+              "sections": []
+            },
+            {
+              "chapter": "CHAPTER II: Residuary Heirs",
+              "sections": []
+            },
+            {
+              "chapter": "CHAPTER III: Distant Kindred (Dhaw-ul-arham)",
+              "sections": []
+            }
+          ]
+        },
+        {
+          "title": "TITLE IV: Settlement and Partition of Estate",
+          "chapters": []
+        }
+      ]
+    },
+    {
+      "book": "BOOK FOUR: Adjudication and Settlement of Disputes and Rendition of Legal Opinions",
+      "titles": [
+        {
+          "title": "TITLE I: The Shari’a Courts",
+          "chapters": [
+            {
+              "chapter": "CHAPTER I: Shari’a District Courts",
+              "sections": []
+            },
+            {
+              "chapter": "CHAPTER II: Shari’a Circuit Courts",
+              "sections": []
+            }
+          ]
+        },
+        {
+          "title": "TITLE II: The Agama Arbitration Council",
+          "chapters": []
+        },
+        {
+          "title": "TITLE III: Jurisconsult in Islamic Law",
+          "chapters": []
+        }
+      ]
+    },
+    {
+      "book": "BOOK FIVE: Miscellaneous and Transitory Provisions",
+      "titles": [
+        {
+          "title": "TITLE I: Muslim Holidays",
+          "chapters": []
+        },
+        {
+          "title": "TITLE II: Communal Property",
+          "chapters": []
+        },
+        {
+          "title": "TITLE III: Customary Contracts",
+          "chapters": []
+        },
+        {
+          "title": "TITLE IV: Conversions",
+          "chapters": []
+        },
+        {
+          "title": "TITLE V: Penal Provisions",
+          "chapters": [
+            {
+              "chapter": "CHAPTER I: Rule of Bigamy",
+              "sections": []
+            },
+            {
+              "chapter": "CHAPTER II: Specific Offenses",
+              "sections": []
+            }
+          ]
+        },
+        {
+          "title": "TITLE VI: Transitory and Final Provisions",
+          "chapters": []
+        }
+      ]
+    }
+  ]
+}
